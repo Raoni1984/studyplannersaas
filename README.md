@@ -86,9 +86,9 @@ Each cycle is documented in the /docs folder.
 
 ## Repository Structure
 /
-├── frontend/        # Angular SPA
-├── backend/         # ASP.NET Core API
-├── docker/          # Infrastructure helper files
-├── docs/            # Cycle-based documentation
+├── frontend/       
+├── backend/        
+├── docker/          
+├── docs/  
 ├── docker-compose.yml
 └── README.md

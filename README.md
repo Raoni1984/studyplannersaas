@@ -7,7 +7,7 @@ This project is a Software as a Service (SaaS) under development for planning, e
 
 The main goal is not only the final product, but to master the complete software development lifecycle, from frontend to production deployment, using a modern technology stack widely adopted in enterprise environments.
 
-#Project Goals
+## Project Goals
 
 Develop a cycle-based study planning system
 
@@ -31,7 +31,7 @@ CI/CD
 
 Kubernetes (lab environment)
 
-#Technology Stack
+## Technology Stack
 Frontend
 
 Angular
@@ -62,7 +62,7 @@ GitHub Actions
 
 Kubernetes (k3s / kind – lab environment)
 
-#Methodology
+## Methodology
 
 The project is developed using short development cycles, each covering the entire pipeline:
 
@@ -78,13 +78,13 @@ Deployment
 
 Testing in a real environment
 
-#Cycle documentation
+## Cycle documentation
 
 Each cycle is documented in the /docs folder.
 
-#Current Status : setup
+## Current Status : setup
 
-#Repository Structure
+## Repository Structure
 /
 ├── frontend/        # Angular SPA
 ├── backend/         # ASP.NET Core API
